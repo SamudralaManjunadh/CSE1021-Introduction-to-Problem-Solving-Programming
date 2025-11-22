@@ -1,6 +1,8 @@
 Readme file report: 
+
 Green-Miles: Transportation & Sustainability 
 Project Overview 
+
 Green-Miles is a simple Python application designed to help users 
 understand the environmental impact of their daily travel. By entering 
 the distance and mode of transport (Car, Bus, Bike, etc.), the system 
