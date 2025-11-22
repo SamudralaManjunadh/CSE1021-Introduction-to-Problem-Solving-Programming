@@ -1,4 +1,13 @@
+## Problem Statement: Why This Project Exists
 
-Most individuals are unaware of the specific environmental cost of their daily commute. While they may know that "cars are bad for the environment," they lack a tool to measure exactly how much CO2 a 10km car ride produces compared to a bus ride. Without data, it is difficult to change behaviour. This project aims to solve this by providing immediate, data-driven feedback on travel choices.
+### The Challenge
+Most people don't know the exact carbon footprint of their daily travel. We use cars, buses, and trains without realizing how much CO2 is being released, which harms the environment.
 
-Climate change is one of the most pressing challenges of the 21st century, with the transportation sector contributing significantly to global carbon emissions. "Green Miles" is a computational solution designed to quantify this impact at an individual level. This Python-based application calculates the Carbon Dioxide (CO2) emissions for various modes of travel and maintains a historical log, encouraging users to opt for more sustainable public transport options.
+### Our Goal
+We need a simple tool to make this impact **visible**.
+
+### What This Tool Does (The Solution)
+The **GREEN-MILES** tracker solves this by:
+1.  **Calculating** the CO2 (carbon dioxide) produced by different travel methods (car, train, bike, etc.).
+2.  **Showing** you a clear, simple summary of your total environmental impact each day.
+3.  **Encouraging** you to choose zero-emission travel (like walking or biking) to become an "Eco-Friendly Hero."
