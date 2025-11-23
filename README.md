@@ -129,6 +129,7 @@ def main_system():
 if __name__ == "__main__":
 
     main_system()
+<img width="871" height="568" alt="Screenshot 2025-11-22 215457" src="https://github.com/user-attachments/assets/b19204e1-a444-4cf8-af2e-8c5fae7604b6" />
 
     
 # How It Works 
